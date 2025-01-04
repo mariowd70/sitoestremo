@@ -1,0 +1,10 @@
+site_name: My Docs
+site_url: https://mydomain.org/mysite
+theme:
+  name: material
+  features:
+   -navigation.instant
+   - navigation.instant.progress
+   - navigation.instsant.preview
+   -navigation.tracking
+   -navigation.tabs
